@@ -151,15 +151,20 @@ Jika tidak ada API key, sistem akan menggunakan fallback default.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page)
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Landing+Page" width="700">
+</p>
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Dashboard" width="700">
+</p>
 
 ### Peta Publik
-![Map](https://via.placeholder.com/800x400?text=Public+Map)
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Public+Map" width="700">
+</p>
 
----
 
 ## 📚 Dokumentasi
 

@@ -148,22 +148,29 @@ Jika tidak ada API key, sistem akan menggunakan fallback default.
 
 ---
 
-## 📸 Screenshots
 
-### Landing Page
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Landing+Page" width="700">
-</p>
+<div align="center">
 
-### Dashboard
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Dashboard" width="700">
-</p>
+### 🚀 Tampilan Aplikasi
 
-### Peta Publik
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Public+Map" width="700">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Landing Page</strong><br><br>
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/local-incident-radar/main/resources/img/conten/Screenshot%202025-11-23%20163706.png" width="260">
+    </td>
+    <td align="center">
+      <strong>Peta Publik</strong><br><br>
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/local-incident-radar/main/resources/img/conten/Screenshot%202025-11-23%20163738.png" width="260">
+    </td>
+    <td align="center">
+      <strong>Dashboard</strong><br><br>
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/local-incident-radar/main/resources/img/conten/Screenshot%202025-11-23%20163801.png" width="350">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ## 📚 Dokumentasi
